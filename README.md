@@ -9,4 +9,4 @@ https://cvilleschools.onshape.com/documents/01e94817b77ebd3d6ce96fc6/w/48189a12c
 
 
 # Reflection
-It was a failry difficult assignment. It was really fun and somewhat challenging at times but it was really fun,
+It was a failry difficult assignment. It was really fun and somewhat challenging at times but it was really fun I should've done more work at home becuase it was a really do able assignment.
