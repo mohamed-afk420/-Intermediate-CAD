@@ -7,7 +7,7 @@ https://cvilleschools.onshape.com/documents/01e94817b77ebd3d6ce96fc6/w/48189a12c
 # Image 
 <img src="images/Skateboard.png" alt="motaharu" width="200">
 
-<img src="images/Wheels.png" alt="motaharu" width="200">
+<img src="images/Wheel.png" alt="motaharu" width="200">
 
 <img src="images/Truck.png" alt="motaharu" width="200">
 
