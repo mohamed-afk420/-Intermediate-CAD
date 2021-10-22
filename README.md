@@ -30,3 +30,13 @@ https://cvilleschools.onshape.com/documents/01e94817b77ebd3d6ce96fc6/w/48189a12c
 # Image
 <img src="images/Truck.png" alt="motaharu" width="200">
 
+Truck Baseplant
+# Description
+this is the part that keeps things in place I think.
+# Evidence
+https://cvilleschools.onshape.com/documents/01e94817b77ebd3d6ce96fc6/w/48189a12c0f33377aaa3214a/e/98d7941dd7b0ddafc811c9e7
+
+# Image
+<img src="images/Baseplant.png" alt="motaharu" width="200">
+# Reflection
+probably one of the easiest pieces, but the fillets through me off.
