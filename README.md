@@ -2,6 +2,7 @@
 
 # Description
 this assignment that I just finished was the skateboard. It's just a skateboard, trucks,deck,wheels,bearings and everything.
+I didn't know we had to submit screenshots of all th parts but I did, Here they are.
 # Evedince 
 https://cvilleschools.onshape.com/documents/01e94817b77ebd3d6ce96fc6/w/48189a12c0f33377aaa3214a/e/24f4fda3cb1035a031ccd666
 # Image 
