@@ -35,6 +35,7 @@ Replicate is the best tool, don't forget about it, you're gonna need it when you
 
 # Block
 ## Image
-<img src="images/Truck.png" alt="motaharu" width="800">
-<img src="images/Truck.png" alt="motaharu" width="800">
+<img src="images/blocks.png" alt="motaharu" width="800">
+<img src="images/block.png" alt="motaharu" width="800">
 ## Reflection
+replicate is very useful, variables are kinda easy if you remember the names, also remember to flip things if they don't look right.
